@@ -9,4 +9,4 @@
 #   to = "https://api.github.com/users/manolors/repos"
 #   status = 200
 #   force = true # COMMENT: ensure that we always redirect
-#   headers = {X-From = "Netlify", Authorization = "Bearer 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"}
+#   headers = {X-From = "Netlify", Authorization = "Bearer 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"}
